@@ -1,1 +1,2 @@
-# Advanced
+# Intermediary to advanced DS projects 
+NLP, API's, >Recommendation Systems etc...
