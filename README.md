@@ -1,2 +1,3 @@
-# Intermediary to advanced DS projects 
+# advanced DS projects 
 NLP, API's, Recommendation Systems etc...
+This are not demo's but common tasks in Data Science jobs
